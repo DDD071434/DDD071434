@@ -1,7 +1,7 @@
 <div align="center">
 
 
-![header](https://capsule-render.vercel.app/api?type=rounded&color=1B4D73&height=300&section=header&text=KyeongYeon%20Kim&fontSize=80&fontColor=FFFFFF)
+![header](https://capsule-render.vercel.app/api?type=rounded&color=1B4D73&height=300&section=header&text=Wondo%20Bae&fontSize=80&fontColor=FFFFFF)
 
 
 <br/>
