@@ -37,10 +37,10 @@ Techs that I've used at least once
  <!-- GitHub Stats -->
   <br/>
   
-  ![](https://raw.githubusercontent.com/kyeongyeon-kim/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/kyeongyeon-kim/github-stats/master/generated/overview.svg#gh-light-mode-only)
-  ![](https://raw.githubusercontent.com/kyeongyeon-kim/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/kyeongyeon-kim/github-stats/master/generated/languages.svg#gh-light-mode-only)
+  ![](https://raw.githubusercontent.com/DDD071434/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/DDD071434/github-stats/master/generated/overview.svg#gh-light-mode-only)
+  ![](https://raw.githubusercontent.com/DDD071434/github-stats/master/generated/languages.svg#gh-dark-mode-only)
+![](https://raw.githubusercontent.com/DDD071434/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
 
 </div>
