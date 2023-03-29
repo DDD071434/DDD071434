@@ -40,5 +40,6 @@ Techs that I've used at least once
   ![](https://raw.githubusercontent.com/DDD071434/github-stats/master/generated/languages.svg#gh-dark-mode-only)
 ![](https://raw.githubusercontent.com/DDD071434/github-stats/master/generated/languages.svg#gh-light-mode-only)
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ddd071434&show_icons=true&theme=radical)
 
 </div>
