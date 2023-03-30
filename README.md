@@ -29,16 +29,20 @@ Techs that I've used at least once
   </br>
   운동 선생을 찾아 매칭할 수 있는 웹 사이트
   </br>
+  </br>
   https://github.com/DDD071434/WebPlatformProject.git
   
   ### 개발자 키우기
   Java GUI 활용 및 DB를 연동하여 제작한 육성 게임
+  </br>
   </br>
   https://github.com/DDD071434/team4.git
     
   ### 로또 프로그램
   Java GUI를 활용한 가상 로또 시뮬레이션 프로그램
   </br>
+  </br>
   https://github.com/DDD071434/pracWithTteam.git
-  
+  </br>
+  </br>
 </div>
