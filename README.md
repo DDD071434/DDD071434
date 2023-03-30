@@ -2,8 +2,6 @@
 
   <h2>📚 TECH STACK 📚</h2>
 
-Techs that I've used at least once 
-  
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
 <img src="https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
@@ -23,28 +21,20 @@ Techs that I've used at least once
 <br/>
 <br/>
    
-  ### OhGym!
+  ### 근선생 매칭 사이트
   Java, Jsp, Html, Css 활용 및 DB 연동과 Apache Tomcat 서버 등을 바탕으로 제작한 
-  </br>
+  <br/>
   운동 선생을 찾아 매칭할 수 있는 웹 사이트
-  </br>
+  <br/>
   https://github.com/DDD071434/WebPlatformProject.git
-  </br>
   
-  </br>
   ### 개발자 키우기
   Java GUI 활용 및 DB를 연동하여 제작한 육성 게임
-  </br>
+  <br/>
   https://github.com/DDD071434/team4.git
-  </br>
     
-  </br>
   ### 로또 프로그램
   Java GUI를 활용한 가상 로또 시뮬레이션 프로그램
-  </br>
+  <br/>
   https://github.com/DDD071434/pracWithTteam.git
-  </br>
-  </br>
-  </br>
-  </br>
 </div>
