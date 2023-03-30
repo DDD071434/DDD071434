@@ -23,7 +23,7 @@ Techs that I've used at least once
 <br/>
 <br/>
    
-  ### 숨고
+  ### OhGym!
   Java, Jsp, Html, Css 활용 및 DB 연동과 Apache Tomcat 서버 등을 바탕으로 제작한 
   </br>
   운동 선생을 찾아 매칭할 수 있는 웹 사이트
