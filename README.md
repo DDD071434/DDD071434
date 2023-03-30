@@ -1,13 +1,5 @@
 <div align="center">
 
-
-![header](https://capsule-render.vercel.app/api?type=rounded&color=1B4D73&height=300&section=header&text=Wondo%20Bae&fontSize=80&fontColor=FFFFFF)
-
-
-<br/>
-<br/>
-<!-- badge -->
-  
   <h2>📚 TECH STACK 📚</h2>
 
 Techs that I've used at least once 
