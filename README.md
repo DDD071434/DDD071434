@@ -26,6 +26,8 @@
   <br/>
   운동 선생을 찾아 매칭할 수 있는 웹 사이트
   <br/>
+  (스프링 마이그레이션 진행 중)
+  <br/>
   https://github.com/DDD071434/WebPlatformProject.git
   
   ### 개발자 키우기
